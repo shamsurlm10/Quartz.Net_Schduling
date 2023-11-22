@@ -1,0 +1,15 @@
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\bin\Debug\net8.0\ABX_RMO.Application.deps.json
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\bin\Debug\net8.0\ABX_RMO.Application.dll
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\bin\Debug\net8.0\ABX_RMO.Application.pdb
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\bin\Debug\net8.0\ABX_RMO.Domain.dll
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\bin\Debug\net8.0\ABX_RMO.Domain.pdb
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.csproj.AssemblyReference.cache
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.AssemblyInfoInputs.cache
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.AssemblyInfo.cs
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.csproj.CopyComplete
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.dll
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\refint\ABX_RMO.Application.dll
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ABX_RMO.Application.pdb
+C:\Users\Shamsurlm10\source\repos\ABX_RMO.Api\ABX_RMO.Application\obj\Debug\net8.0\ref\ABX_RMO.Application.dll

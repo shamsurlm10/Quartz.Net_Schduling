@@ -1,0 +1,6 @@
+@ABX_RMO.Api_HostAddress = http://localhost:5143
+
+GET {{ABX_RMO.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UUJStbrq7k/fvt9vECPbR63BCf+3YTtEvNtaQdHDD2E7KPr7UihG+n6HG/JSGemT1DR9etxCL3s5ekCMT1CmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\ABX_RMO.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\quartz\\3.8.0\\quartz.3.8.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\quartz.extensions.dependencyinjection\\3.8.0\\quartz.extensions.dependencyinjection.3.8.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shamsurlm10\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
