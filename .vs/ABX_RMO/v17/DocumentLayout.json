@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF6BDF78-A9FB-41BE-B90E-37D1B294CE78}|ABX_RMO.Domain\\ABX_RMO.Domain.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.domain\\dbmodels\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BDF78-A9FB-41BE-B90E-37D1B294CE78}|ABX_RMO.Domain\\ABX_RMO.Domain.csproj|solutionrelative:abx_rmo.domain\\dbmodels\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\services\\quartzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\services\\quartzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,52 +11,24 @@
       "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\repository\\robotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.infrastructure\\loggingbackgroundjobsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\loggingbackgroundjobsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A69E27-9D9B-430A-827A-5660090C1530}|ABX_RMO.Api\\ABX_RMO.Api.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A69E27-9D9B-430A-827A-5660090C1530}|ABX_RMO.Api\\ABX_RMO.Api.csproj|solutionrelative:abx_rmo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.infrastructure\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\services\\robotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\services\\robotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.infrastructure\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BDF78-A9FB-41BE-B90E-37D1B294CE78}|ABX_RMO.Domain\\ABX_RMO.Domain.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.domain\\dbmodels\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BDF78-A9FB-41BE-B90E-37D1B294CE78}|ABX_RMO.Domain\\ABX_RMO.Domain.csproj|solutionrelative:abx_rmo.domain\\dbmodels\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.infrastructure\\abxrmodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE362EF1-97E9-4D45-B58A-4737235B2A88}|ABX_RMO.Infrastructure\\ABX_RMO.Infrastructure.csproj|solutionrelative:abx_rmo.infrastructure\\abxrmodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\repository\\irobotrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\repository\\irobotrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\interface\\irobotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\interface\\irobotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\repository\\irobotrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\repository\\irobotrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\repository\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\interface\\irobotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\interface\\irobotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\interface\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\interface\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|c:\\users\\shamsurlm10\\source\\repos\\abx_rmo.api\\abx_rmo.application\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7B12F5-95C2-4061-85FD-BC870DA68209}|ABX_RMO.Application\\ABX_RMO.Application.csproj|solutionrelative:abx_rmo.application\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,266 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20231122094408_log_table_add.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\Migrations\\20231122094408_log_table_add.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:44:08.448Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Api\\Program.cs",
-              "RelativeToolTip": "ABX_RMO.Api\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:41:33.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Domain\\DbModels\\Robot.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Domain\\DbModels\\Robot.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Domain\\DbModels\\Robot.cs",
-              "RelativeToolTip": "ABX_RMO.Domain\\DbModels\\Robot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:38:25.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\Service.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Services\\Service.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\Service.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Services\\Service.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:31:09.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\EfRepository.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\Repository\\EfRepository.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\EfRepository.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\Repository\\EfRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:29:59.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRepository.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Repository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:29:37.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IService.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Interface\\IService.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IService.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Interface\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:27:51.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRobotRepositroy.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:13:08.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RobotRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:04:59.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\LogRepository.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\Repository\\LogRepository.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\LogRepository.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\Repository\\LogRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:04:46.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "RobotService.cs",
               "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\RobotService.cs",
               "RelativeDocumentMoniker": "ABX_RMO.Application\\Services\\RobotService.cs",
               "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\RobotService.cs",
               "RelativeToolTip": "ABX_RMO.Application\\Services\\RobotService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T09:00:05.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LogService.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\LogService.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Services\\LogService.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\LogService.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Services\\LogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:59:50.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\ILogRepository.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\ILogRepository.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\ILogRepository.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Repository\\ILogRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:59:14.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRobotService.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IRobotService.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Interface\\IRobotService.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IRobotService.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Interface\\IRobotService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:58:22.938Z",
+              "WhenOpened": "2023-11-23T04:44:17.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
+              "Title": "IRobotRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Repository\\IRobotRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T04:42:25.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ILogService.cs",
               "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\ILogService.cs",
               "RelativeDocumentMoniker": "ABX_RMO.Application\\Interface\\ILogService.cs",
               "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\ILogService.cs",
               "RelativeToolTip": "ABX_RMO.Application\\Interface\\ILogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:58:05.789Z",
+              "WhenOpened": "2023-11-23T04:43:33.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogEntry.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Domain\\DbModels\\LogEntry.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Domain\\DbModels\\LogEntry.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Domain\\DbModels\\LogEntry.cs",
-              "RelativeToolTip": "ABX_RMO.Domain\\DbModels\\LogEntry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IService.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Interface\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:56:17.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuartzService.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\QuartzService.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Application\\Services\\QuartzService.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\QuartzService.cs",
-              "RelativeToolTip": "ABX_RMO.Application\\Services\\QuartzService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwBsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:51:21.878Z",
+              "WhenOpened": "2023-11-23T04:43:31.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IRobotService.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IRobotService.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Interface\\IRobotService.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Interface\\IRobotService.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Interface\\IRobotService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T04:43:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T04:43:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Repository\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Repository\\ILogRepository.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Repository\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T04:43:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuartzService.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\QuartzService.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Application\\Services\\QuartzService.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Application\\Services\\QuartzService.cs",
+              "RelativeToolTip": "ABX_RMO.Application\\Services\\QuartzService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T03:29:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
+              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
+              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
+              "RelativeToolTip": "ABX_RMO.Infrastructure\\Repository\\RobotRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T03:28:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoggingBackgroundJobSetup.cs",
               "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\LoggingBackgroundJobSetup.cs",
               "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\LoggingBackgroundJobSetup.cs",
               "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\LoggingBackgroundJobSetup.cs",
               "RelativeToolTip": "ABX_RMO.Infrastructure\\LoggingBackgroundJobSetup.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:50:57.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBIAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:50:15.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ABXRMODbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\ABXRMODbContext.cs",
-              "RelativeDocumentMoniker": "ABX_RMO.Infrastructure\\ABXRMODbContext.cs",
-              "ToolTip": "C:\\Users\\Shamsurlm10\\source\\repos\\ABX_RMO.Api\\ABX_RMO.Infrastructure\\ABXRMODbContext.cs",
-              "RelativeToolTip": "ABX_RMO.Infrastructure\\ABXRMODbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-22T08:50:11.082Z",
+              "WhenOpened": "2023-11-23T03:28:18.332Z",
               "EditorCaption": ""
             }
           ]

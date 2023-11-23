@@ -19,22 +19,20 @@ namespace ABX_RMO.Application.Services
             _logRepository = logRepository;
         }
         public async Task Execute(IJobExecutionContext context)
-        {
-
-            var robots2023 =_robotRepository.GetRobotsByYear(2021);
-            foreach (var robot in robots2023)
-            {
-                robot.MadeDate = new DateTime(2019, DateTime.Now.Month, DateTime.Now.Day, DateTime.Now.Hour, DateTime.Now.Minute, DateTime.Now.Second);
+        {   
+                var robots2023 =_robotRepository.GetRobotsByYear(2019);
+                robots2023.MadeDate = new DateTime(2017, DateTime.Now.Month, DateTime.Now.Day, DateTime.Now.Hour, DateTime.Now.Minute, DateTime.Now.Second);
                 LogEntry logEntry = new LogEntry
                 {
-                    RobotId = robot.RobotId,
+                    RobotId = robots2023.RobotId,
                     LogDateTime = DateTime.Now,
                     LogMessage = "Successfully Updated"
                 };
+
                 await _logRepository.AddAsync(logEntry);
-                await _robotRepository.UpdateAsync(robot);
-            }
-            _logger.LogInformation("Successfully updated MadeDate for robots with MadeDate in 2022.");
+                await _robotRepository.UpdateAsync(robots2023);
+
+                _logger.LogInformation("Successfully updated MadeDate for robots with MadeDate in 2022.");
         }
     }
 }

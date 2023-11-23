@@ -12,9 +12,9 @@ namespace ABX_RMO.Infrastructure.Repository
             _db = db;
         }
 
-        public List<Robot> GetRobotsByYear(int year)
+        public Robot GetRobotsByYear(int year)
         {
-            return _db.Robots.Where(s=>s.MadeDate.Year == year).ToList();
+            return _db.Robots.FirstOrDefault(s=>s.MadeDate.Year == year);
         }
     }
 }

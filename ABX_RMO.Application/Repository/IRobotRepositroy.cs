@@ -4,6 +4,6 @@ namespace ABX_RMO.Application.Repository
 {
     public interface IRobotRepositroy : IRepository<Robot>
     { 
-        List<Robot> GetRobotsByYear(int year);
+        Robot GetRobotsByYear(int year);
     }
 }

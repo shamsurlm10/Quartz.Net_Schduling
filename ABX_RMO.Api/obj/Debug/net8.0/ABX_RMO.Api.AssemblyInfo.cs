@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ABX_RMO.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edfce88d23c8ba8c7f524a2b724634d30f541f6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ABX_RMO.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ABX_RMO.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
